@@ -10,6 +10,10 @@ commit / hacemos un punto de guardo del archivo o proyecto ** Si no escribe el m
 :wq wardar :v (write) y quit
 :qa! Botonazo del commit 
 
+para enviar un msj de una vez al commit se hace asi 
+    git commit -m "mensaje"  
+y asi no evitamos entrar a esa terminal
+
 log / Aqui vemos todos los commits que se hacn hecho, cuantas lineas se agrego
 
 diff archivo / para ver las diferencias de los cambios, pero  en el visual studio promete mas, los +son señales de los nuevos cambios
