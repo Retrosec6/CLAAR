@@ -7,3 +7,5 @@ status / ahi vemos que archivos esstan siendo observados a cambios, cuales han c
 add / agregamos un archivo a la observacion de git 
 
 commit / hacemos un punto de guardo del archivo o proyecto
+
+diff archivo / para ver las diferencias de los cambios, pero  en el visual studio promete mas, los +son señales de los nuevos cambios
