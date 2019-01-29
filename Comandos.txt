@@ -6,9 +6,18 @@ status / ahi vemos que archivos esstan siendo observados a cambios, cuales han c
 
 add / agregamos un archivo a la observacion de git 
 
-commit / hacemos un punto de guardo del archivo o proyecto
+commit / hacemos un punto de guardo del archivo o proyecto ** Si no escribe el msj hay que tocar i para que no nos de una embolia **
+:wq wardar :v (write) y quit
+:qa! Botonazo del commit 
+
+log / Aqui vemos todos los commits que se hacn hecho, cuantas lineas se agrego
 
 diff archivo / para ver las diferencias de los cambios, pero  en el visual studio promete mas, los +son señales de los nuevos cambios
 
 **para aplicar los cambios de un arhcivo tengo que darle un git add y para guardarlo darle un commit**
 
+.gitignore
+Si yo quiero que git ignore lo cambios hechos en algun archivo deb crear un archivo con el la ext .gitignore y escribir los nombres ahi
+
+cuando especificamos los nomrbes en el archivo y hacemos cambios en una carpeta o archivos que estan nombrados aqui solo nos saldra que el archivo .gitignore fue modificado, 
+    pero no cuales, entonces los esta ignorando 
