@@ -1,0 +1,9 @@
+Todos llevan git antes
+
+init / Crea el repositorio git
+
+status / ahi vemos que archivos esstan siendo observados a cambios, cuales han cambiado etc
+
+add / agregamos un archivo a la observacion de git 
+
+commit / hacemos un punto de guardo del archivo o proyecto
